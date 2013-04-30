@@ -197,6 +197,8 @@
 #mocha-stats .progress {
   float: right;
   padding-top: 0;
+  overflow: visible;
+  height: 80px;
 }
 
 #mocha-stats em {
